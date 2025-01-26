@@ -75,18 +75,6 @@ for contrast_factor in contrast_factors:
 |False           | 1.5             | ![Output 2.0](output/dice_artwork_bw_cf1.5.jpg)|
 |False           | 3               | ![Output 2.0](output/dice_artwork_bw_cf3.jpg)  |
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Contact
-
-For any questions or inquiries, please contact [benlec](mailto:youremail@example.com).
-
 ## Similar Resources
 
 - [Dice Mosaic Generator](https://dicemosaicgenerator.com/)
