@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # Pixel Dice Art Generator
 
 This project converts an image into a dice-based representation, where each pixel block is represented by a dice face. The dice faces are determined based on the grayscale value of the pixel block. The project supports using both black and white dice, or exclusively black dice.
