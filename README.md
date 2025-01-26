@@ -28,51 +28,15 @@ This project converts an image into a dice-based representation, where each pixe
 
 1. Place your input image in the project directory.
 
-2. Update the 
-
-main.py
-
- file with your desired settings:
-    - 
-
-input_image_path
-
-: Path to your input image.
-    - 
-
-debug_mode
-
-: Set to `True` to enable debugging (saves intermediate images).
-    - 
-
-use_only_black_dice
-
-: Set to `True` to use only black dice, `False` to use both black and white dice.
-    - 
-
-upscaling_input
-
-: Set to `True` to upscale the input image.
-    - 
-
-contrast_factors
-
-: List of contrast factors to apply.
-    - 
-
-upscaling_factor
-
-: Factor to upscale the input image.
-    - 
-
-output_artwork_path
-
-: Path to save the final dice-based artwork.
-    - 
-
-pixel_size
-
-: Size of each dice block in the output image.
+2. Update the main.py file with your desired settings:
+    - input_image_path: Path to your input image.
+    - debug_mode: Set to `True` to enable debugging (saves intermediate images).
+    - use_only_black_dice: Set to `True` to use only black dice, `False` to use both black and white dice.
+    - upscaling_input: Set to `True` to upscale the input image.
+    - contrast_factors: List of contrast factors to apply.
+    - upscaling_factor: Factor to upscale the input image.
+    - output_artwork_path: Path to save the final dice-based artwork.
+    - pixel_size: Size of each dice block in the output image.
 
 3. Run the script:
     ```sh
