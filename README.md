@@ -67,7 +67,7 @@ for contrast_factor in contrast_factors:
 
 |Black Dice Only | Contrast Factor | Output Image                                   |
 |----------------|-----------------|------------------------------------------------|
-|True            | 0.8             | ![Output 0.8](output/dice_artwork_cf0.8.jpg){width=200px}   |
+|True            | 0.8             | ![Output 0.8](output/dice_artwork_cf0.8.jpg){width=200px}|
 |True            | 1.2             | ![Output 1.2](output/dice_artwork_cf1.2.jpg)   |
 |True            | 1.5             | ![Output 1.5](output/dice_artwork_cf1.5.jpg)   |
 |True            | 1.9             | ![Output 1.9](output/dice_artwork_cf1.9.jpg)   |
